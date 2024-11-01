@@ -1,0 +1,92 @@
+# Copyright (C) 2021 Herman Kramar
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: XPAY Payment Plugin 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wc-xpay-gateway\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-09-28T10:13:36+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wc-xpay-gateway\n"
+
+#. Plugin Name of the plugin
+msgid "XPAY Payment Plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid "XPAY Payment Gateway"
+msgstr ""
+
+#. Author of the plugin
+msgid "XPAY team"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://xpay.com.ua/"
+msgstr ""
+
+#: wc-xpay-gateway.php:167
+msgid "Enable/Disable"
+msgstr "Включить/Отключить"
+
+#: wc-xpay-gateway.php:169
+msgid "Enable XPAY Payment Module."
+msgstr ""
+
+#: wc-xpay-gateway.php:173
+msgid "Title:"
+msgstr ""
+
+#: wc-xpay-gateway.php:175
+msgid "XPAY Payments"
+msgstr ""
+
+#: wc-xpay-gateway.php:176
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: wc-xpay-gateway.php:180
+msgid "Description:"
+msgstr ""
+
+#: wc-xpay-gateway.php:182
+msgid "Pay securely through XPAY."
+msgstr ""
+
+#: wc-xpay-gateway.php:183
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: wc-xpay-gateway.php:187
+msgid "XPAY Service URL"
+msgstr ""
+
+#: wc-xpay-gateway.php:194
+msgid "Partner ID"
+msgstr ""
+
+#: wc-xpay-gateway.php:204
+#: wc-xpay-gateway.php:210
+msgid "URL of success page"
+msgstr ""
+
+#: wc-xpay-gateway.php:218
+msgid "URL with result of transaction page"
+msgstr ""
+
+#: wc-xpay-gateway.php:230
+msgid "XPAY.com"
+msgstr ""
+
+#: wc-xpay-gateway.php:255
+msgid "Спасибо за ваш заказ, сейчас вы будете перенаправлены на страницу оплаты XPAY."
+msgstr ""
+
+#: wc-xpay-gateway.php:283
+msgid "Pay with XPAY"
+msgstr ""
